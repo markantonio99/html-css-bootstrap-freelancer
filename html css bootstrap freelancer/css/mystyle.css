@@ -4,6 +4,12 @@
    border: 1px solid blue;
 }
 
+
+.mc_card{
+    background-color: red;
+    padding: 20px;
+    min-height: 100px;
+}
 /* .mc_automargin{
     margin: 0 auto;
 } */
