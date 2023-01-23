@@ -10,6 +10,77 @@
     padding: 20px;
     min-height: 100px;
 }
-/* .mc_automargin{
+
+.mc_img{
+    max-width: 250px;
+    margin: auto;
+}
+
+.mc_img_2{
+    max-width: 250px;
     margin: 0 auto;
-} */
+    text-align: center;
+}
+
+.container_sm{
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.mc_section{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+/* ********************************
+********************************
+*******UTILITY CLASS*************
+******************************** */
+
+.mx_w_text{
+    color: white !important;
+}
+
+.mc.wcard{
+max-width: 160px !important;
+}
+
+.mc_bk_green{
+background-color: #1bbc5b;
+}
+
+.mct_24{
+    font-size: 34px !important;
+}
+
+.mck_r{
+    background-color: #fd0037;
+}
+
+
+.mc_btn{
+    /* padding: 20px 200px !important; */
+    border: 1px solid white;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+    max-width: 15%;
+    min-height: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: 0 auto;
+}
+
+.mc_button{
+    margin:  0 auto;
+}
+
+.mc_stars{
+    display: flex;
+    justify-content: center;
+}
+
+.mc_star_line{
+  width: 20px;
+  color: white;
+}
+
